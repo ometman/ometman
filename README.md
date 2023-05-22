@@ -7,7 +7,8 @@ const Ometman = {
   readyFor: "Front-end developer" || "Full-stack web developer",
   Language and FrameWork: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, 
   Tailwind CSS, Material UI],
-   Tech Support: [Cloud, IT Training, Computer Systems]
+   Tech Support: [Cloud, IT Training, Computer Systems],
+   funTime: [National Geographic Movies, Swimming, Piano Basics]
 }
 </code>
 
